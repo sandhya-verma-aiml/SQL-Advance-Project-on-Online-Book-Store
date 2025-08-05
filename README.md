@@ -44,30 +44,6 @@ Calculate stock remaining after fulfilling all orders.
 
 Get the average price of books in a specific genre (e.g., Fantasy).
 
-📷 Screenshots
-Below are some example screenshots included in this project:
-
-SQL queries in MySQL Workbench
-
-Result grids showing data output
-
-ER diagram (optional if added)
-
-Table schemas
-
-📁 How to Use
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/sql-advance-project-online-bookstore.git
-cd sql-advance-project-online-bookstore
-Import the SQL scripts into MySQL Workbench.
-
-Run the DDL statements to create the schema and tables.
-
-Insert sample data and run the analytical queries provided.
 
 🧠 Concepts Applied
 Aggregate functions: SUM(), COUNT(), AVG()
